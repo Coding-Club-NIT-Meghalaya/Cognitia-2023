@@ -7,6 +7,7 @@ import image0 from "../assets/images/download 8.png"
 import image1 from "../assets/images/dev/Gaurav.png"
 import image2 from "../assets/images/dev/jishnu.jpg"
 import image3 from "../assets/images/dev/charity.jpg"
+import image4 from "../assets/images/dev/aryan.jpg"
 // import image4 from "../assets/images/dev/Isaiah.jpeg";
 // import image5 from "../assets/images/dev/Nishant.jpeg";
 // import image6 from "../assets/images/dev/Marjiba.jpeg";
@@ -201,6 +202,7 @@ function Devteam() {
 		image1,
 		image2,
 		image3,
+		image4,
 		// image4,
 		// image5,
 		// image6,
@@ -211,6 +213,7 @@ function Devteam() {
 		"Gaurav",
 		"Jishnu",
 		"Charity",
+		"Aryan",
 		// "Amal",
 		// "Isaiah",
 		// "Nishant",
@@ -219,6 +222,7 @@ function Devteam() {
 		// "Lavanya",
 	]
 	const roles = [
+		"Lead developer",
 		"Lead developer",
 		"Lead developer",
 		"Lead developer",
@@ -513,7 +517,7 @@ function Coding() {
 		image111,
 		image112,
 		image113,
-		image114,
+		image1,
 		image115,
 	]
 	const names = [
@@ -531,7 +535,7 @@ function Coding() {
 		"Siddhant Purkayastha",
 		"Karipireddy Surya Teja",
 		"Ritabrata Pal",
-		"Guarav Joshi",
+		"Gaurav Joshi",
 		"Rounak Saha"
 	  ];
 	  
