@@ -37,7 +37,7 @@ export default function FilterButton({ type, name }) {
           </svg>
           {type === "cc" ? (
             <div
-              className={`p-2  w-24 lg:w-48
+              className={`p-2  w-24 lg:w-48 min-w-fit
     rounded-xl h-9 lg:h-16 text-center  border-bgcoding border-[1px] flex flex-col justify-center`}
             >
               <span
@@ -51,7 +51,7 @@ export default function FilterButton({ type, name }) {
           )}
           {type === "rc" ? (
             <div
-              className={`p-2 w-24 lg:w-48
+              className={`p-2 w-24 lg:w-48 min-w-fit
     rounded-xl h-9 lg:h-16 text-center border-[1px] border-bgrobotics flex flex-col justify-center`}
             >
               <span
@@ -65,7 +65,7 @@ export default function FilterButton({ type, name }) {
           )}
           {type === "dp" ? (
             <div
-              className={`p-2 w-24 lg:w-48
+              className={`p-2 w-24 lg:w-48 min-w-fit
     rounded-xl h-9 lg:h-16 text-center border-[1px] border-bgcoding flex flex-col justify-center`}
             >
               <span
@@ -79,7 +79,7 @@ export default function FilterButton({ type, name }) {
           )}
           {type === "ac" ? (
             <div
-              className={`p-2 w-24 lg:w-48
+              className={`p-2 w-24 lg:w-48 min-w-fit
     rounded-xl h-9 lg:h-16 text-center border-[1px] border-purple-600 flex flex-col justify-center`}
             >
               <span
