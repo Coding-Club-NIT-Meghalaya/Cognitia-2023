@@ -16,13 +16,14 @@ import image3 from "../assets/images/dev/charity.jpg"
 
 import image9 from "../assets/images/SAC Committee/Atanu.jpg"
 import image10 from "../assets/images/SAC Committee/bunil.jpg"
+import image1010 from "../assets/images/SAC Committee/Shuleenda.jpg"
 import image11 from "../assets/images/SAC Committee/swarop.jpeg"
 import image12 from "../assets/images/SAC Committee/OmPrakash Yadav.jpg"
 import image13 from "../assets/images/SAC Committee/arush.jpg"
 import image1311 from "../assets/images/SAC Committee/Indra Shikhar Sharma.jpg"
 
 //CORE
-import image14 from "../assets/images/download 8.png"
+import image14 from "../assets/images/Core/Baidi.jpeg"
 import image15 from "../assets/images/Core/Abhijith Sai.jpg"
 import image16 from "../assets/images/Core/T Vikram Rathod.jpg"
 import image17 from "../assets/images/Core/Neelkanth.jpg"
@@ -232,10 +233,10 @@ function Devteam() {
 }
 
 function SAC() {
-	const images = [image9, image10, image11, image12, image13, image1311]
+	const images = [image9, image1010, image11, image12, image13, image1311]
 	const names = [
 		"Dr. Atanu Singha Roy",
-		"Dr. Bunil Kr. Balabantaray",
+		"Dr. Salam Shuleenda Devi",
 		"T. Swaroop Kumar",
 		"Om Prakash Yadav",
 		"Arush Raman",
@@ -736,7 +737,7 @@ const ContainerX = ({ content }) => {
 }
 
 const Team = () => {
-	const [currentView, setCurrentView] = useState("Dev")
+	const [currentView, setCurrentView] = useState("SAC")
 	const [slideIndex, setSlideIndex] = useState(0)
 
 	const navbarItems = [
