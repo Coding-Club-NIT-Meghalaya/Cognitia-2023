@@ -45,35 +45,86 @@ import image25 from "../assets/images/design/Pankaj Saraswat.jpg"
 // import image31 from "../assets/images/maketing/
 // import image32 from "../assets/images/maketing/
 // import image33 from "../assets/images/maketing/
-import image34 from "../assets/images/marketing/Kumar Gaurav.jpeg"
+// import image34 from "../assets/images/marketing/Kumar Gaurav.jpeg"
 // import image35 from "../assets/images/maketing/
 // import image36 from "../assets/images/maketing/
 // import image37 from "../assets/images/maketing/
-import image38 from "../assets/images/marketing/Satyam Kumar Singh.png"
-import image39 from "../assets/images/marketing/Achintya Chaudhary.jpg"
-import image40 from "../assets/images/marketing/Kabesa S Marak.png"
-import image41 from "../assets/images/marketing/Neelkantha Mandal.jpg"
+// import image38 from "../assets/images/marketing/Satyam Kumar Singh.png"
+// import image39 from "../assets/images/marketing/Achintya Chaudhary.jpg"
+// import image40 from "../assets/images/marketing/Kabesa S Marak.png"
+// import image41 from "../assets/images/marketing/Neelkantha Mandal.jpg"
+import image31 from "../assets/images/marketing/Saket Pratap Singh.jpeg";
+import image32 from "../assets/images/marketing/Protiksha Hajong.jpg";
+import image33 from "../assets/images/marketing/Badurgari Rasool.jpeg";
+import image34 from "../assets/images/marketing/Venu Gopala Krishna.jpeg";
+import image35 from "../assets/images/marketing/IMG_20240906_172322_790 - Sachin Chaurasia.jpg";
+import image36 from "../assets/images/marketing/image - Bekkam Manohar Sai.jpg";
+
+import image37 from "../assets/images/marketing/Supriya.jpg";
+import image38 from "../assets/images/marketing/Avinash Renukunta.jpeg";
+import image39 from "../assets/images/marketing/B. Vedant.jpg";
+import image40 from "../assets/images/marketing/Prem Kumar Gupta.jpg";
+import image41 from "../assets/images/marketing/Apratim Chatterjee.jpg";
+import image42 from "../assets/images/marketing/Alympa Deka.webp";
 
 //Management
-import image51 from "../assets/images/management/Arilam Kyndiah.jpg"
-import image52 from "../assets/images/management/hrangaolou.jpg"
-import image53 from "../assets/images/management/Koninika Tarafdar.jpg"
-import image54 from "../assets/images/management/meba.jpg"
-import image55 from "../assets/images/management/PREM KUMAR GUPTA.jpg"
+// import image51 from "../assets/images/management/Arilam Kyndiah.jpg"
+// import image52 from "../assets/images/management/hrangaolou.jpg"
+// import image53 from "../assets/images/management/Koninika Tarafdar.jpg"
+// import image54 from "../assets/images/management/meba.jpg"
+// import image55 from "../assets/images/management/PREM KUMAR GUPTA.jpg"
 //import image56 from "../assets/images/management/
-import image57 from "../assets/images/management/Kenneth Wellborn Basaiawmoit.jpeg"
-import image58 from "../assets/images/management/Klusborning Nongbri.jpg"
+// import image57 from "../assets/images/management/Kenneth Wellborn Basaiawmoit.jpeg"
+// import image58 from "../assets/images/management/Klusborning Nongbri.jpg"
 //import image59 from "../assets/images/management/
 //import image60 from "../assets/images/management/
-import image61 from "../assets/images/management/B Palguna Rao.jpg"
-import image62 from "../assets/images/management/S Charan Tejha Reddy.jpg"
+// import image61 from "../assets/images/management/B Palguna Rao.jpg"
+// import image62 from "../assets/images/management/S Charan Tejha Reddy.jpg"
 //import image63 from "../assets/images/management/
 //import image64 from "../assets/images/management/
-import image65 from "../assets/images/management/Penugurthi.Dinesh.jpg"
-import image66 from "../assets/images/management/Sonam Bharti.jpg"
-import image67 from "../assets/images/management/T.Rakesh Srikar Reddy.jpg"
-import image68 from "../assets/images/management/ajay.jpg"
+// import image65 from "../assets/images/management/Penugurthi.Dinesh.jpg"
+// import image66 from "../assets/images/management/Sonam Bharti.jpg"
+// import image67 from "../assets/images/management/T.Rakesh Srikar Reddy.jpg"
+// import image68 from "../assets/images/management/ajay.jpg"
 //import image69 from "../assets/images/management/
+
+
+// import image1001 from "../assets/images/management/.jpg"
+import image1001 from "../assets/images/download 8.png"
+// import image1002 from "../assets/images/management/.jpg"
+import image1002 from "../assets/images/download 8.png"
+import image1003 from "../assets/images/management/Vanyza Lyngshiang.jpg"
+import image1004 from "../assets/images/management/Ibanylla M Maring.jpg"
+import image1005 from "../assets/images/management/Kurra Nandini.jpg"
+// import image1006 from "../assets/images/management/.jpg"
+import image1006 from "../assets/images/download 8.png"
+import image1007 from "../assets/images/management/D Bhuvanesh.jpeg"
+import image1008 from "../assets/images/management/Dola Raghu.jpg"
+import image1009 from "../assets/images/management/Shivam Kumar Manglam.jpg"
+import image10100 from "../assets/images/management/Sojib Datta.jpg"
+// import image1011 from "../assets/images/management/.jpg"
+import image1011 from "../assets/images/download 8.png"
+import image1012 from "../assets/images/management/Manish Bishnoi.jpg"
+import image1013 from "../assets/images/management/B Palguna Rao.jpg"
+import image1014 from "../assets/images/management/Mushfique Ahmed.jpg"
+import image1015 from "../assets/images/management/Syed Ashraf Rafi.png"
+import image1016 from "../assets/images/management/PODUGU ASHRITH.jpg"
+// import image1017 from "../assets/images/management/.jpg"
+import image1017 from "../assets/images/download 8.png"
+// import image1018 from "../assets/images/management/.jpg"
+// import image1019 from "../assets/images/management/.jpg"
+import image1018 from "../assets/images/download 8.png"
+import image1019 from "../assets/images/download 8.png"
+import image1020 from "../assets/images/management/Rakesh Thumu.jpg"
+// import image1021 from "../assets/images/management/.jpg"
+import image1021 from "../assets/images/download 8.png"
+import image1022 from "../assets/images/management/Yashvi Arya.jpg"
+import image1023 from "../assets/images/management/Nazia Sheikh.jpg"
+// import image1024 from "../assets/images/management/.jpg"
+import image1024 from "../assets/images/download 8.png"
+import image1025 from "../assets/images/management/Madhulika.jpeg"
+import image1026 from "../assets/images/management/Saloni Singh.jpg"
+import image1027 from "../assets/images/management/Binnada yamuna.jpg"
 
 //others
 import image71 from "../assets/images/others/Gannu Abhijith Sai.jpg"
@@ -303,110 +354,156 @@ function Design() {
 }
 function Marketing() {
 	const images = [
-		image0,
-		image0,
-		image0,
-		image34,
-		image0,
-		image0,
-		image0,
-		image38,
-		image39,
-		image40,
-		image41,
-	]
+	  
+	  image37, 
+	  image38,
+	  image0,
+	  image31,
+	  image32,
+	  image39,
+	  image40,
+	  image33,
+	  image34,
+	  image41,
+	  image42,
+	  image35,
+	  image36
+	];
 	const names = [
-		"Rathod Vikram",
-		"Banteilang",
-		"Jaswanth Kumar",
-		"Kumar Gaurav",
-		"Harsh Thakur",
-		"Sourabh Paul",
-		"Jenny Fersha",
-		"Satyam Kumar ",
-		"Achintya",
-		"Kabesa S",
-		"Neelkahntha",
-	]
+	  
+	  "Supriya Neogi",
+	  "Avinash Renukunta",
+	  "Yongdo Sangma",
+	  "Saket Pratap Singh",
+	  "Protiksha Hajong",
+	  "B Vedant ",
+	  "Prem Kumar Gupta",
+	  "SBadurgari Rasool",
+	  "Venu Gopala Krishna",
+	  "Apratim Chatterjee",
+	  "Alympa Deka",
+	  "Sachin Chaurasia",
+	  "Bekkam Manohar Sai"
+	];
 	const roles = [
-		"Coordinator (Sponsor & Marketing)",
-		"Coordinator (Sponsor & Marketing)",
-		"Coordinator (Publicity & Social Media)",
-		"Coordinator (Publicity & Social Media)",
-		"Coordinator (Sponsor & Marketing)",
-		"Co-coordinator (Sponsor & Marketing)",
-		"Co-coordinator (Sponsor & Marketing)",
-		"Co-coordinator (Sponsor & Marketing)",
-		"Co-coordinator (Publicity & Social Media)",
-		"Co-coordinator (Publicity & Social Media)",
-		"Co-coordinator (Publicity & Social Media)",
-	]
-
-	return <TeamSection images={images} names={names} roles={roles} />
-}
+	  "Coordinator (Sponsor & Marketing)",
+	  "Coordinator (Sponsor & Marketing)",
+	  "Coordinator (Sponsor & Marketing)",
+	  "Coordinator (Publicity & Social Media)",
+	  "Coordinator (Publicity & Social Media)",
+	  
+	  "Co-coordinator (Sponsor & Marketing)",
+	  "Co-coordinator (Sponsor & Marketing)",
+	  
+	  "Co-coordinator (Publicity & Social Media)",
+	  "Co-coordinator (Publicity & Social Media)",
+	  "Member (Sponsor & Marketing)",
+	  "Member (Sponsor & Marketing)",
+	  "Member (Publicity & Social Media)",
+	  "Member (Publicity & Social Media)",
+	];
+  
+	return <TeamSection images={images} names={names} roles={roles} />;
+  }
 function Management() {
 	const images = [
-		image52,
-		image51,
-		image53,
-		image0,
-		image55,
-		image68,
-		image0,
-		image54,
-		image57,
-		image58,
-		image0,
-		image0,
-		image61,
-		image62,
-		image0,
-		image0,
-		image65,
-		image66,
-		image67,
+		image1001,
+		image1002,
+		image1003,
+		image1004,
+		image1005,
+
+		image1006,
+		image1007,
+		image1008,
+		image1009,
+
+		image10100,
+		image1011,
+		image1012,
+		image1013,
+		image1014,
+		image1015,
+		image1016,
+		
+		image1017,
+		image1018,
+		image1019,
+		image1020,
+		image1021,
+		image1022,
+		image1023,
+
+		image1024,
+		image1025,
+		image1026,
+		image1027,
 	]
 	const names = [
-		"D S Hrangaolou",
-		"Arilam",
-		"Koninika Tarafdar",
-		"Bahunshisha Snaitang",
-		"Prem",
-		"Ajay Reddy",
-		"Dappalapoodi Bhuvanesh",
-		"Mebadeipor",
-		"Kenneth Wellborn ",
-		"Klusborning Nongbri",
+		"Kabesa S Marak",
+		"Rahul Deb Rai ",
+		"Vanyza Lyngshiang ",
+		"Ibanylla M Maring ",
+		"Kurra Nandini",
+
+		"Nimmakuri Varun Teja",
+		"D Bhuvanesh",
+		"Dola Raghu",
+		"Shivam Kumar Manglam",
+
 		"Sojib Datta",
-		"Richmondwell L Kalwing",
-		"B Palguna Rao",
-		"S Charan Tejha",
-		"B Sai Upender",
-		"Olivia El Reka",
 		"Penugurthi Dinesh",
-		"Sonam Bharti",
-		"Rakesh Srikar Reddy",
+		"Manish Bishnoi",
+		"B Palguna Rao",
+		"Mushfique Ahmed",
+		"Syed Ashraf Rafi",
+		"PODUGU ASHRITH",
+
+		"Vasundhra Singh",
+		"Abhishek",
+		"Minakshi",
+		"Rakesh Thumu",
+		"Rahul Kumar",
+		"Yashvi Arya",
+		"Nazia Sheikh",
+
+		"Varsha",
+		"Madhulika",
+		"Saloni Singh",
+		"Binnada yamuna",
 	]
 	const roles = [
 		"Coordinator (Hospitality)",
 		"Coordinator (Hospitality)",
 		"Co-coordinator (Hospitality)",
-		"Co-coordinator (Hospitality)",
-		"Co-coordinator (Hospitality)",
+		"Member-1 (Hospitality)",
+		"Member-2 (Hospitality)",
+		
 		"Coordinator (Food Committee)",
 		"Co-coordinator (Food Committee)",
+		"Member-1 (Food Committee)",
+		"Member-2 (Food Committee)",
+
 		"Coordinator (Stage Management)",
 		"Coordinator (Stage Management)",
 		"Coordinator (Stage Management)",
 		"Co-coordinator (Stage Management)",
 		"Co-coordinator (Stage Management)",
-		"Co-coordinator (Stage Management)",
+		"Member-1 (Stage Management)",
+		"Member-2 (Stage Management)",
+
 		"Coordinator (Event Management)",
 		"Coordinator (Event Management)",
 		"Coordinator (Event Management)",
 		"Co-coordinator (Event Management)",
 		"Co-coordinator (Event Management)",
-		"Co-coordinator (Event Management)",
+		"Member-1 (Event Management)",
+		"Member-2 (Event Management)",
+		
+		"Coordinator (Public Relations)",
+		"Coordinator (Public Relations)",
+		"Member-1 (Public Relations)",
+		"Member-2 (Public Relations)",
 	]
 
 	return <TeamSection images={images} names={names} roles={roles} />
