@@ -171,7 +171,7 @@ export default function Timeline() {
           <div className="relative z-10">
             <Container
               date={"7th November"}
-              event1={"Official commencement of the Cognitia 2023 event"}
+              event1={"Official commencement of the Cognitia 2024 event"}
               event2={"Inauguration Ceremony at 3:00PM"}
             />
             <Container
