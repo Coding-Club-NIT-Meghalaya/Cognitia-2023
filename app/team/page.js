@@ -15,6 +15,7 @@ import image4 from "../assets/images/dev/aryan.jpg"
 // import image7 from "../assets/images/dev/Gaurav Polai.jpg";
 //sac committee
 
+import imagedsw from "../assets/images/SAC Committee/dsw.jpg"
 import image9 from "../assets/images/SAC Committee/Atanu.jpg"
 import image10 from "../assets/images/SAC Committee/bunil.jpg"
 import image1010 from "../assets/images/SAC Committee/Shuleenda.jpg"
@@ -314,8 +315,9 @@ function Devteam() {
 }
 
 function SAC() {
-	const images = [image9, image1010, image11, image12, image13, image1311]
+	const images = [imagedsw, image9, image1010, image11, image12, image13, image1311]
 	const names = [
+		"Dr. Paonam Sudeep Mangang",
 		"Dr. Atanu Singha Roy",
 		"Dr. Salam Shuleenda Devi",
 		"T. Swaroop Kumar",
@@ -324,6 +326,7 @@ function SAC() {
 		"IndraShikhar Sharma",
 	]
 	const roles = [
+		"Dean (Student's Welfare)",
 		"SAC President",
 		"Vice-President, Technical",
 		"General Secretary 1,Science & Technology",
