@@ -67,6 +67,8 @@ import image39 from "../assets/images/marketing/B. Vedant.jpg";
 import image40 from "../assets/images/marketing/Prem Kumar Gupta.jpg";
 import image41 from "../assets/images/marketing/Apratim Chatterjee.jpg";
 import image42 from "../assets/images/marketing/Alympa Deka.webp";
+import imageSubDas from "../assets/images/marketing/Subrata Das.jpeg";
+
 
 //Management
 // import image51 from "../assets/images/management/Arilam Kyndiah.jpg"
@@ -183,6 +185,7 @@ import image993 from "../assets/images/robotics/pranav_kumar_dubey.jpg"
 import image994 from "../assets/images/robotics/pankaj_saraswat.jpg"
 import image995 from "../assets/images/download 8.png"
 import image996 from "../assets/images/robotics/debashish_nayak.jpeg"
+import imageShivam3Y from "../assets/images/robotics/shivam kumar 3Y.jpg"
 
 // coding
 import image100 from "../assets/images/download 8.png"
@@ -317,7 +320,7 @@ function Devteam() {
 function SAC() {
 	const images = [imagedsw, image9, image1010, image11, image12, image13, image1311]
 	const names = [
-		"Dr. Paonam Sudeep Mangang",
+		"Prof. Paonam Sudeep Mangang",
 		"Dr. Atanu Singha Roy",
 		"Dr. Salam Shuleenda Devi",
 		"T. Swaroop Kumar",
@@ -390,11 +393,12 @@ function Marketing() {
 		image31,
 		image32,
 		image39,
-		image40,
+		// image40,
 		image33,
 		image34,
 		image41,
 		image42,
+		imageSubDas,
 		image35,
 		image36
 	];
@@ -406,11 +410,12 @@ function Marketing() {
 		"Saket Pratap Singh",
 		"Protiksha Hajong",
 		"B Vedant ",
-		"Prem Kumar Gupta",
+		// "Prem Kumar Gupta",
 		"SBadurgari Rasool",
 		"Venu Gopala Krishna",
 		"Apratim Chatterjee",
 		"Alympa Deka",
+		"Subrata Das",
 		"Sachin Chaurasia",
 		"Bekkam Manohar Sai"
 	];
@@ -422,10 +427,11 @@ function Marketing() {
 		"Coordinator (Publicity & Social Media)",
 
 		"Co-coordinator (Sponsor & Marketing)",
-		"Co-coordinator (Sponsor & Marketing)",
+		// "Co-coordinator (Sponsor & Marketing)",
 
 		"Co-coordinator (Publicity & Social Media)",
 		"Co-coordinator (Publicity & Social Media)",
+		"Member (Sponsor & Marketing)",
 		"Member (Sponsor & Marketing)",
 		"Member (Sponsor & Marketing)",
 		"Member (Publicity & Social Media)",
@@ -555,7 +561,7 @@ function Robotics() {
 		image93,
 		image94,
 		image95,
-		image96,
+		imageShivam3Y,
 		image97,
 		image98,
 		image99,
