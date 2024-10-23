@@ -139,16 +139,17 @@ import image1027 from "../assets/images/management/Binnada yamuna.jpg"
 //import image80 from "../assets/images/others/
 import image71 from "../assets/images/others/Laxman.jpg";
 import image72 from "../assets/images/others/Vedant.jpg";
-import image73 from "../assets/images/others/Satyajeet.jpg";
+// import image73 from "../assets/images/others/Satyajeet.jpeg";
+import image73 from "../assets/images/download 8.png"
 import image74 from "../assets/images/others/Vattimilli Divya Sree.jpg";
-import image75 from "../assets/images/others/Gowthaboina Trisha.jpg";
+import image75 from "../assets/images/others/GOWTHABOINA TRISHA.jpg";
 import image76 from "../assets/images/others/Sravani.webp";
 import image77 from "../assets/images/others/sanjana thothu.jpg";
 import image78 from "../assets/images/others/Rai  Tripura.jpeg";
 import image79 from "../assets/images/others/Rounak Saha.jpg";
 import image80 from "../assets/images/others/Arunoday Tiwari.jpg";
 import image811 from "../assets/images/others/Hemchand.jpg";
-import image821 from "../assets/images/others/Rama Krishna.jpg";
+import image821 from "../assets/images/others/Rama krishna.jpg";
 import image831 from "../assets/images/others/MD SHAMS TABREZ ANSARI.jpg";
 import image841 from "../assets/images/others/Dharam Singh.jpg";
 import image851 from "../assets/images/others/Priyanshu Singh.jpg";
