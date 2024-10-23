@@ -90,7 +90,7 @@ import image42 from "../assets/images/marketing/Alympa Deka.webp";
 
 
 // import image1001 from "../assets/images/management/.jpg"
-import image1001 from "../assets/images/download 8.png"
+import image1001 from "../assets/images/download 9.png"
 // import image1002 from "../assets/images/management/.jpg"
 import image1002 from "../assets/images/download 8.png"
 import image1003 from "../assets/images/management/Vanyza Lyngshiang.jpg"
@@ -110,11 +110,11 @@ import image1014 from "../assets/images/management/Mushfique Ahmed.jpg"
 import image1015 from "../assets/images/management/Syed Ashraf Rafi.png"
 import image1016 from "../assets/images/management/PODUGU ASHRITH.jpg"
 // import image1017 from "../assets/images/management/.jpg"
-import image1017 from "../assets/images/download 8.png"
+import image1017 from "../assets/images/download 9.png"
 // import image1018 from "../assets/images/management/.jpg"
 // import image1019 from "../assets/images/management/.jpg"
 import image1018 from "../assets/images/download 8.png"
-import image1019 from "../assets/images/download 8.png"
+import image1019 from "../assets/images/download 9.png"
 import image1020 from "../assets/images/management/Rakesh Thumu.jpg"
 // import image1021 from "../assets/images/management/.jpg"
 import image1021 from "../assets/images/download 8.png"
@@ -127,16 +127,33 @@ import image1026 from "../assets/images/management/Saloni Singh.jpg"
 import image1027 from "../assets/images/management/Binnada yamuna.jpg"
 
 //others
-import image71 from "../assets/images/others/Gannu Abhijith Sai.jpg"
+// import image71 from "../assets/images/others/Gannu Abhijith Sai.jpg"
 // import image72 from "../assets/images/others/
 // import image73 from "../assets/images/others/
 // import image74 from "../assets/images/others/
 // import image75 from "../assets/images/others/
 // import image76 from "../assets/images/others/
-import image77 from "../assets/images/others/Karimi Tarun Teja.jpeg"
-import image78 from "../assets/images/others/L SRI KASYAP.jpg"
-import image79 from "../assets/images/others/Simma kiran.jpg"
+// import image77 from "../assets/images/others/Karimi Tarun Teja.jpeg"
+// import image78 from "../assets/images/others/L SRI KASYAP.jpg"
+// import image79 from "../assets/images/others/Simma kiran.jpg"
 //import image80 from "../assets/images/others/
+import image71 from "../assets/images/others/Laxman.jpg";
+import image72 from "../assets/images/others/Vedant.jpg";
+// import image73 from "../assets/images/others/Satyajeet.jpeg";
+import image73 from "../assets/images/download 8.png"
+import image74 from "../assets/images/others/Vattimilli Divya Sree.jpg";
+import image75 from "../assets/images/others/GOWTHABOINA TRISHA.jpg";
+import image76 from "../assets/images/others/Sravani.webp";
+import image77 from "../assets/images/others/sanjana thothu.jpg";
+import image78 from "../assets/images/others/Rai  Tripura.jpeg";
+import image79 from "../assets/images/others/Rounak Saha.jpg";
+import image80 from "../assets/images/others/Arunoday Tiwari.jpg";
+import image811 from "../assets/images/others/Hemchand.jpg";
+import image821 from "../assets/images/others/Rama krishna.jpg";
+import image831 from "../assets/images/others/MD SHAMS TABREZ ANSARI.jpg";
+import image841 from "../assets/images/others/Dharam Singh.jpg";
+import image851 from "../assets/images/others/Priyanshu Singh.jpg";
+import image861 from "../assets/images/others/Anil Kumar.jpg";
 
 
 // robotics
@@ -169,7 +186,7 @@ import image996 from "../assets/images/robotics/debashish_nayak.jpeg"
 // coding
 import image100 from "../assets/images/download 8.png"
 import image101 from "../assets/images/download 8.png"
-import image102 from "../assets/images/download 8.png"
+import image102 from "../assets/images/download 9.png"
 import image103 from "../assets/images/download 8.png"
 import image104 from "../assets/images/download 8.png"
 import image105 from "../assets/images/coding/Avinash Renukunta.jpeg"
@@ -189,24 +206,34 @@ import image115 from "../assets/images/download 8.png"
 import image130 from "../assets/images/departmental/Koruprolu Bhagya Raju.jpg"
 import image131 from "../assets/images/download 8.png"
 import image132 from "../assets/images/departmental/Ajay Goud E.jpg"
-import image133 from "../assets/images/download 8.png"
-import image134 from "../assets/images/download 8.png"
+import image133 from "../assets/images/download 9.png"
+import image134 from "../assets/images/download 9.png"
 import image135 from "../assets/images/download 8.png"
-import image136 from "../assets/images/download 8.png"
+import image136 from "../assets/images/download 9.png"
 import image137 from "../assets/images/download 8.png"
 import image138 from "../assets/images/download 8.png"
-import image139 from "../assets/images/download 8.png"
+import image139 from "../assets/images/download 9.png"
 import image140 from "../assets/images/download 8.png"
 import image141 from "../assets/images/download 8.png"
 import image142 from "../assets/images/download 8.png"
 import image143 from "../assets/images/departmental/Gurijala Meghana.jpg"
 import image144 from "../assets/images/design/M Manikanta Reddy.jpg"
 import image145 from "../assets/images/departmental/Shubham Kumar.jpg"
-import image146 from "../assets/images/download 8.png"
+import image146 from "../assets/images/download 9.png"
 import image147 from "../assets/images/departmental/Ajmire Harshada Nitin.jpg"
-import image148 from "../assets/images/departmental/Adarsh Kumar Shrivastav.jpg"	
+import image148 from "../assets/images/departmental/Adarsh Kumar Shrivastav.jpg"
 import image149 from "../assets/images/download 8.png"
 
+
+// Gaming
+import imageG1 from '../assets/images/gaming/Panga Sai Teja.jpg'
+import imageG2 from '../assets/images/gaming/Nirupan Jagnekar.jpg'
+import imageG3 from '../assets/images/guy.jpg'
+import imageG4 from '../assets/images/guy.jpg'
+import imageG5 from '../assets/images/gaming/Pilli Shanyu Veda Seshu.jpg'
+import imageG6 from '../assets/images/gaming/ANKIT RAJ.jpg'
+import imageG7 from '../assets/images/gaming/Rahul Das.jpg'
+import imageG8 from '../assets/images/gaming/Mediboina Satyanand.jpg'
 
 
 import Image from "next/image"
@@ -231,9 +258,8 @@ const TeamSection = ({ images, names, roles }) => {
 						placeholder="blur"
 					/>
 					<div
-						className={`text-white mt font-poppins font-bold text-xl flex flex-col ${
-							image === image10 ? "text-[19px]" : ""
-						}`}
+						className={`text-white mt font-poppins font-bold text-xl flex flex-col ${image === image10 ? "text-[19px]" : ""
+							}`}
 					>
 						<strong className={poppins.className}>{names[index]}</strong>
 
@@ -335,7 +361,7 @@ function Design() {
 		"Botu Varun",
 		"M.Manikanta Reddy",
 		"K. Surya Teja Gopal Reddy ",
-		"Pankaj Tripati",
+		"Pankaj Saraswat",
 	]
 	const roles = [
 		"Convener",
@@ -354,57 +380,57 @@ function Design() {
 }
 function Marketing() {
 	const images = [
-	  
-	  image37, 
-	  image38,
-	  image0,
-	  image31,
-	  image32,
-	  image39,
-	  image40,
-	  image33,
-	  image34,
-	  image41,
-	  image42,
-	  image35,
-	  image36
+
+		image37,
+		image38,
+		image0,
+		image31,
+		image32,
+		image39,
+		image40,
+		image33,
+		image34,
+		image41,
+		image42,
+		image35,
+		image36
 	];
 	const names = [
-	  
-	  "Supriya Neogi",
-	  "Avinash Renukunta",
-	  "Yongdo Sangma",
-	  "Saket Pratap Singh",
-	  "Protiksha Hajong",
-	  "B Vedant ",
-	  "Prem Kumar Gupta",
-	  "SBadurgari Rasool",
-	  "Venu Gopala Krishna",
-	  "Apratim Chatterjee",
-	  "Alympa Deka",
-	  "Sachin Chaurasia",
-	  "Bekkam Manohar Sai"
+
+		"Supriya Neogi",
+		"Avinash Renukunta",
+		"Yongdo Sangma",
+		"Saket Pratap Singh",
+		"Protiksha Hajong",
+		"B Vedant ",
+		"Prem Kumar Gupta",
+		"SBadurgari Rasool",
+		"Venu Gopala Krishna",
+		"Apratim Chatterjee",
+		"Alympa Deka",
+		"Sachin Chaurasia",
+		"Bekkam Manohar Sai"
 	];
 	const roles = [
-	  "Coordinator (Sponsor & Marketing)",
-	  "Coordinator (Sponsor & Marketing)",
-	  "Coordinator (Sponsor & Marketing)",
-	  "Coordinator (Publicity & Social Media)",
-	  "Coordinator (Publicity & Social Media)",
-	  
-	  "Co-coordinator (Sponsor & Marketing)",
-	  "Co-coordinator (Sponsor & Marketing)",
-	  
-	  "Co-coordinator (Publicity & Social Media)",
-	  "Co-coordinator (Publicity & Social Media)",
-	  "Member (Sponsor & Marketing)",
-	  "Member (Sponsor & Marketing)",
-	  "Member (Publicity & Social Media)",
-	  "Member (Publicity & Social Media)",
+		"Coordinator (Sponsor & Marketing)",
+		"Coordinator (Sponsor & Marketing)",
+		"Coordinator (Sponsor & Marketing)",
+		"Coordinator (Publicity & Social Media)",
+		"Coordinator (Publicity & Social Media)",
+
+		"Co-coordinator (Sponsor & Marketing)",
+		"Co-coordinator (Sponsor & Marketing)",
+
+		"Co-coordinator (Publicity & Social Media)",
+		"Co-coordinator (Publicity & Social Media)",
+		"Member (Sponsor & Marketing)",
+		"Member (Sponsor & Marketing)",
+		"Member (Publicity & Social Media)",
+		"Member (Publicity & Social Media)",
 	];
-  
+
 	return <TeamSection images={images} names={names} roles={roles} />;
-  }
+}
 function Management() {
 	const images = [
 		image1001,
@@ -425,7 +451,7 @@ function Management() {
 		image1014,
 		image1015,
 		image1016,
-		
+
 		image1017,
 		image1018,
 		image1019,
@@ -478,7 +504,7 @@ function Management() {
 		"Co-coordinator (Hospitality)",
 		"Member-1 (Hospitality)",
 		"Member-2 (Hospitality)",
-		
+
 		"Coordinator (Food Committee)",
 		"Co-coordinator (Food Committee)",
 		"Member-1 (Food Committee)",
@@ -499,7 +525,7 @@ function Management() {
 		"Co-coordinator (Event Management)",
 		"Member-1 (Event Management)",
 		"Member-2 (Event Management)",
-		
+
 		"Coordinator (Public Relations)",
 		"Coordinator (Public Relations)",
 		"Member-1 (Public Relations)",
@@ -513,7 +539,7 @@ function Robotics() {
 	const images = [
 		image81,
 		image82,
-		image83, 
+		image83,
 		image84,
 		image85,
 		image86,
@@ -634,8 +660,8 @@ function Coding() {
 		"Ritabrata Pal",
 		"Gaurav Joshi",
 		"Rounak Saha"
-	  ];
-	  
+	];
+
 	const roles = [
 		"Coordinator",
 		"Coordinator",
@@ -653,7 +679,7 @@ function Coding() {
 		"Co-Coordinator",
 		"Co-Coordinator",
 		"Co-Coordinator",
-		
+
 	]
 
 	return <TeamSection images={images} names={names} roles={roles} />
@@ -661,13 +687,35 @@ function Coding() {
 
 function Gaming() {
 	const images = [
-		// image0,
+		imageG1,
+		imageG2,
+		imageG3,
+		imageG4,
+		imageG5,
+		imageG6,
+		imageG7,
+		imageG8
 	]
 	const names = [
-		// "Name",
-	]
+		"Panga Sai Teja",
+		"Nirupan Jagnekar",
+		"Chikasin",
+		"Subhajit Khan",
+		"Pilli Shanyu Veda Seshu ",
+		"Ankit Raj",
+		"Rahul Das",
+		"GMediboina satyanand ",
+	];
+
 	const roles = [
-		
+		"Coordinator",
+		"Coordinator",
+		"Coordinator",
+		"Co-Coordinator",
+		"Co-Coordinator",
+		"Co-Coordinator",
+		"Member-1",
+		"Member-2"
 	]
 
 	return <TeamSection images={images} names={names} roles={roles} />
@@ -717,9 +765,9 @@ function Departmental() {
 		"Harshada",
 		"Adarsh Kumar Shrivastav",
 		"Preetikana Das"
-	  ];
-	  
-	  const roles = [
+	];
+
+	const roles = [
 		"Coordinator (CSE)",
 		"Coordinator (CSE)",
 		"Coordinator (ECE)",
@@ -740,8 +788,8 @@ function Departmental() {
 		"Co-Coordinator (CE)",
 		"Co-Coordinator (Physics)",
 		"Co-Coordinator (Chemistry)",
-	  ];
-	  
+	];
+
 
 	return <TeamSection images={images} names={names} roles={roles} />
 }
@@ -749,46 +797,96 @@ function Departmental() {
 function Others() {
 	const images = [
 		image71,
+		image72,
+		image73,
+		image74,
+		image75,
 		image0,
 		image0,
-		image0,
-		image0,
-		image0,
+		image76,
 		image77,
 		image78,
 		image79,
+		image80,
+		image811,
 		image0,
-	]
-	const names = [
-		"Gannu Abhijith Sai",
-		"Arkibud B. Ryntathiang",
-		"Taruna",
-		"Bingi Rakesh",
-		"Diyasha Mahanta",
-		"Rai Kachak Tripura",
-		"Karimi Tarun Teja",
-		"L Sri Kasyap",
-		"Simma Kiran",
-		"Nimmakuri Varun Teja",
-	]
-	const roles = [
-		"Coordinator (Task Force Club)",
-		"Coordinator (Task Force Club)",
-		"Co-coordinator (Task Force Club)",
-		"Coordinator (Traditional Dance)",
-		"Coordinator (Traditional Dance)",
-		"Coordinator (Photography and fine arts)",
-		"Head (Volunteer)",
-		"Head (Volunteer)",
-		"Coordinator (Volunteer)",
-		"Coordinator (Volunteer)",
-	]
+		image0,
+		image821,
+		image831,
+		image841,
+		image0,
+		image851,
+		image0,
+		image0,
+		image0,
+		image861,
+		image0,
 
-	return <TeamSection images={images} names={names} roles={roles} />
+
+
+
+	];
+
+	const names = [
+		"Laxman",
+		"Vedant",
+		"Satyajeet",
+		"Vattimilli Divya Sree",
+		"Gowthaboina Trisha",
+		"Rakesh Bingi", // Image0 photo not found
+		"Refi Vasti islari", // Image0 photo not found
+		"Sravani",
+		"sanjana thothu",
+		"Rai Tripura",
+		"Rounak Saha",
+		"Arunoday Tiwari",
+		"Hemchand",
+		"Simma Kiran",// Image0 photo not found
+		"Dharmpal",// Image0 photo not found
+		"Rama Krishna",
+		"MD SHAMS TABREZ ANSARI",
+		"Dharam Singh",
+		"Rupesh",// Image0 photo not found
+		"Prinayshu Singh",
+		"Raj Sharma",// Image0 photo not found
+		"Gabriel",// Image0 photo not found
+		"Yaswanth",// Image0 photo not found
+		"Anil Kumar",
+		"Karan Gupta"// Image0 photo not found
+	];
+	const roles = [
+		"Talk Show Coordinators (Task Force Club)",
+		"Talk Show Coordinators (Task Force Club)",
+		"Talk Show Co-Coordinators (Task Force Club)",
+		"Talk Show Members (Task Force Club)",
+		"Talk Show Members(Task Force Club)",
+		"Coordinator (Traditional Dance)",
+		"Coordinator (Traditional Dance)",
+		"Co-Coordinator (Traditional Dance)",
+		"Member (Traditional Dance)",
+		"Coordinator (Photography and Fine Arts)",
+		"Astronomy Coordinator ",
+		"Astronomy Member",
+		"Astronomy Member",
+		"Head (Volunteer)",
+		"Head (Volunteer)",
+		"Coordinator (Volunteer)",
+		"Coordinator (Volunteer)",
+		"Member (Robotic club Volunteer)",
+		"Member (Robotic club Volunteer)",
+		"Member (Robotic club Volunteer)",
+		"Member (Robotic club Volunteer)",
+		"Member (Robotic club Volunteer)",
+		"Member (Robotic club Volunteer)",
+		"Member (Robotic club Volunteer)",
+		"Member (Robotic club Volunteer)",
+	];
+
+	return <TeamSection images={images} names={names} roles={roles} />;
 }
 
 const componentsMap = {
-  SAC,
+	SAC,
 	Dev: Devteam,
 	Core,
 	Design,
@@ -809,16 +907,14 @@ const Navbar1 = ({ items, onSelect, activeItem }) => {
 					key={index}
 					onClick={() => onSelect(item)}
 					style={{ textAlign: "centre" }}
-					className={`cursor-pointer ${
-						activeItem === item ? "border-b-2 border-white-500" : ""
-					}`}
+					className={`cursor-pointer ${activeItem === item ? "border-b-2 border-white-500" : ""
+						}`}
 				>
 					<p
-						className={`pb-3 text-xs ${
-							activeItem === item
+						className={`pb-3 text-xs ${activeItem === item
 								? "text-[#EBEBEB]"
 								: "text-[#EBEBEB] opacity-40"
-						} font-plus-jakarta-sans text-sm md:text-lg`}
+							} font-plus-jakarta-sans text-sm md:text-lg`}
 					>
 						{" "}
 						{item}
