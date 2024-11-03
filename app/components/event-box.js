@@ -200,7 +200,7 @@ export default function EventBox({
         <Image
           // placeholder="blur"
           alt="image"
-          className={"rounded-t-xl object-fill w-full h-full"}
+          className={"rounded-t-xl object-cover w-full h-full"}
           loader={({ src, width, quality }) => `${src}?w=${width}&q=${10}`}
           src={bannerImage}
           height={1000}
