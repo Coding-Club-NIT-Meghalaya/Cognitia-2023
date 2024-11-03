@@ -156,6 +156,7 @@ import image821 from "../assets/images/others/Rama krishna.jpg";
 import image831 from "../assets/images/others/MD SHAMS TABREZ ANSARI.jpg";
 import image841 from "../assets/images/others/Dharam Singh.jpg";
 import image851 from "../assets/images/others/Priyanshu Singh.jpg";
+import image852 from "../assets/images/others/Gabriel.jpg";
 import image861 from "../assets/images/others/Anil Kumar.jpg";
 
 
@@ -196,7 +197,7 @@ import image104 from "../assets/images/download 8.png"
 import image105 from "../assets/images/coding/Avinash Renukunta.jpeg"
 import image106 from "../assets/images/coding/Samiksha Deb.jpg"
 import image107 from "../assets/images/coding/Gunnu Lavanya.jpg"
-import image108 from "../assets/images/download 8.png"
+import image108 from "../assets/images/coding/Manish.jpg"
 import image109 from "../assets/images/coding/Hriti Chakrabortty.jpg"
 import image110 from "../assets/images/download 8.png"
 import image111 from "../assets/images/coding/Siddhant Purkayastha.jpg"
@@ -826,7 +827,7 @@ function Others() {
 		image0,
 		image851,
 		image0,
-		image0,
+		image852,
 		image0,
 		image861,
 		image0,
